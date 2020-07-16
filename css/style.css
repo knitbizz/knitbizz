@@ -65,7 +65,9 @@ button:focus {
 .p0 {
   padding-left: 0px;
   padding-right: 0px; }
-
+.resp{
+  width: 100%;
+}
 .white_bg {
   background: #fff !important; }
 
