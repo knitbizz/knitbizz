@@ -32,6 +32,9 @@ body {
   font-weight: 400;
   color: #777777;
   background: url(../img/body-bg.png) no-repeat center; }
+.resp{
+  width: 100%;
+}
 
 h1,
 h2,
@@ -65,9 +68,7 @@ button:focus {
 .p0 {
   padding-left: 0px;
   padding-right: 0px; }
-.resp{
-  width: 100%;
-}
+
 .white_bg {
   background: #fff !important; }
 
